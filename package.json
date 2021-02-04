@@ -6,6 +6,7 @@
   "author": "Daniel Florescu <Daniel.florescu1905@protonmail.ch>",
   "license": "BSD-2-Clause",
   "devDependencies": {
+    "nodemon": "^2.0.7",
     "typescript": "^4.1.3"
   }
 }
