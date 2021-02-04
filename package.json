@@ -1,0 +1,11 @@
+{
+  "name": "ts-todo",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Dko1905/ts-todo.git",
+  "author": "Daniel Florescu <Daniel.florescu1905@protonmail.ch>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
